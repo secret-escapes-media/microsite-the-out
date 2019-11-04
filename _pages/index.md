@@ -3,9 +3,20 @@ layout: competition
 id: competition
 
 title: Competition
-long-title: Win a luxury break with the latest Land Rover XX
-intro: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur aspernatur beatae tempora, voluptates ut recusandae ea exercitationem culpa mollitia quia similique. Perferendis cumque obcaecati ad pariatur. Quos iure sapiente amet beatae, officiis possimus minima expedita, ea ad. Doloribus et perspiciatis doloremque. Tenetur consequatur quam maiores odit, adipisci nostrum numquam quo mollitia eligendi! Debitis, culpa impedit, ex esse fugit enim quibusdam!
+long-title: Win a luxury getaway in a luxury car and escape in style
 enter-cta: Enter Now
+
+
+features:
+
+  - id: stay
+    title: The Stay
+    description: The Poets House Hotel perfectly marries country charms with contemporary style. The turn-of-the-century listed building houses rooms fit for a glamorous sojourn, with copper baths perfect for long evening soaks with fizz in hand. This is your chance to indulge in the better life, gazing at gorgeous country views before discovering the Cambridgeshire countryside.
+
+  - id: car
+    title: The Car
+    description: The Land Rover Discovery Sport HSE edition is uncompromising when it comes to luxury and style. Delivered to your door, step inside for a truly five-star adventure. It’s yours for the duration; where will the Discovery Sport take you?
+
 
 competition-form:
   id: comp

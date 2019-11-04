@@ -3,18 +3,16 @@
 
   {% include page/head.html %}
 
-  <body class="no-js">
+  <body class="no-js {{page.id}}">
 
     {% include components/tracking.html %}
 
     <div class="content-spacing section-spacing">
       <div class="container">
-        <div class="width width--md vpad--xxl">
+        <div class="width width--lg vpad--xxl text--white text--center">
           <h1 class="title title--lg">{{page.title}}</h1>
-          <div class="space--xxs"></div>
-          <p class="text--xxl">{{page.intro}}</p>
           <div class="space--md"></div>
-          <a href="{{page.cta.link | liquify}}" class="btn btn--orange">{{page.cta.text}}</a>
+          <a href="{{page.cta.link | liquify}}" class="btn btn--white">{{page.cta.text}}</a>
         </div>
       </div>
     </div>

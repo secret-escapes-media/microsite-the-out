@@ -13,9 +13,7 @@ banner:
 
 <div class="container container--xxl vpad--xl text--white text--normal bg--dark">
   <div class="width width--xl text--center">
-    <p class="text--xxl">{{page.intro}}</p>
-    <div class="space--sm"></div>
-    <a href="#super-cool-link" class="js-mobile-cta btn btn--white" data-mobile-cta="Download Now">Find Out More</a>
+    <p class="text--xxl">{{site.description}}</p>
   </div>
   <div class="space--xl"></div>
   <div class="row row--constant-4-4-4 row--gutters-sm">
@@ -32,6 +30,21 @@ banner:
 </div>
 
 <div class="container container--xxl vpad--xl text--white text--normal bg--black">
+  {% for item in page.features %}
+    <div class="bob {% cycle: '', ' bob--swap' %}">
+      <div class="bob__img">
+        <div class="bg-img bg-img--3-2" style="background-image: url('{{site.img}}/content/{{item.id}}.jpg');"></div>
+      </div>
+      <div class="bob__text">
+        <h2 class="title title--md">{{item.title}}</h2>
+        <p>{{item.description}}</p>
+      </div>
+    </div>
+    {% unless forloop.last %}<div class="space--xl"></div>{% endunless %}
+  {% endfor %}
+</div>
+
+<div class="container container--xxl vpad--xl text--white text--normal bg--dark">
   <div id="entry-form" class="vpad--md">
     {% assign form = page.competition-form %}
     <form class="form boilerform competition-form" action="{{form.post-url}}" method="POST" data-expires="{{form.expiry-date}}" novalidate>
