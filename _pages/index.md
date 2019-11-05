@@ -3,7 +3,7 @@ layout: competition
 id: competition
 
 title: Competition
-long-title: Win a luxury getaway in a luxury car and escape in style
+long-title: Win your very own luxury escape
 enter-cta: Enter Now
 
 
@@ -15,7 +15,7 @@ features:
 
   - id: car
     title: The Car
-    description: The Land Rover Discovery Sport HSE edition is uncompromising when it comes to luxury and style. Delivered to your door, step inside for a truly five-star adventure. It’s yours for the duration; where will the Discovery Sport take you?
+    description: The new Range Rover Evoque R-Dynamic is packed with modern, bold design cues, innovative technology and new levels of refinement. Delivered to your door, step inside for a truly five-star adventure. It’s yours for the duration; where will the Evoque take you?
 
 
 competition-form:
