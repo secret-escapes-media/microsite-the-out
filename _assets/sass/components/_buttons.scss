@@ -25,6 +25,14 @@
       background-color: rgba($white, .9);
     }
   }
+  &--white-strong {
+    color: $black;
+    background-color: $white;
+    &:hover {
+      color: $black;
+      background-color: $grey-light;
+    }
+  }
   &--outline {
     color: inherit;
     &:before {
