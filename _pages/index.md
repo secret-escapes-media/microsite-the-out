@@ -54,6 +54,20 @@ competition-form:
         - id: opt-in-false
           label: 'No'
           value: 'no'
+    - id: phone-type
+      type: radio
+      label: What type of phone do you use?
+      required: true
+      options:
+        - id: phone-iphone
+          label: 'iPhone'
+          value: 'iphone'
+        - id: phone-android
+          label: 'Android'
+          value: 'android'
+        - id: phone-other
+          label: 'Other'
+          value: 'other'
   submit: Submit Entry
   terms: >
     By submitting your entry, you agree to the <a href="#" class="js-open-modal link--underlined" data-open-modal="competition-terms">terms and conditions</a> of this competition
