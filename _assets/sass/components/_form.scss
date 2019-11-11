@@ -80,6 +80,11 @@
   color: $black;
   background: rgba($white, .9);
 }
+.boilerform .c-button:hover.is-loading .loading-icon,
+.boilerform .c-button:focus.is-loading .loading-icon {
+  border-color: rgba($black, .2);
+  border-top-color: $black;
+}
 .boilerform .c-button:disabled {
   opacity: .5;
 }

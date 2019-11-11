@@ -4,6 +4,7 @@ id: competition
 
 title: Competition
 long-title: Win your very own luxury escape
+meta-title: Win your very own luxury escape
 enter-cta: Enter Now
 
 
@@ -20,8 +21,8 @@ features:
 
 competition-form:
   id: comp
-  post-url: "#getFormUrl"
-  expiry-date: 2050-01-01
+  post-url: https://getform.io/f/db01e799-98ff-4130-ae00-af6ad3d3189f
+  expiry-date: 2020-02-01
   fields:
     - id: name
       type: text

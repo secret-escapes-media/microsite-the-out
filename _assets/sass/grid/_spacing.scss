@@ -3,9 +3,13 @@
 // default horizontal padding for the whole site
 // Gets set a lot of times so mixin needed to keep track and allow global edit
 @mixin page-padding {
-  padding-left: $s2;
-  padding-right: $s2;
+  padding-left: $s0;
+  padding-right: $s0;
   @include bp($md){
+    padding-left: $s2;
+    padding-right: $s2;
+  }
+  @include bp($lg){
     padding-left: $s4;
     padding-right: $s4;
   }
