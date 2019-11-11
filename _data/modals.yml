@@ -19,97 +19,87 @@
 #
 #####################################
 
-
-- id: video
-  type: youtube
-  pages:
-    - id: all
-  youtube-id: Os6R4G4dimY
-
-- id: another
-  pages:
-    - id: all
-  content: >
-    <div class="title title--lg">Another Modal</div>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium maxime est soluta expedita inventore corrupti ipsam illo, eligendi sit id accusamus iure dicta qui suscipit culpa fugiat possimus consequatur totam iste perspiciatis delectus nesciunt deleniti, cumque nemo labore? Nesciunt explicabo velit iure, et voluptatibus beatae vitae laboriosam. Magni suscipit, facere eum culpa ab ullam, accusantium tempora, ut similique vero odit placeat sit tenetur quas, consectetur eaque. Praesentium distinctio, quae mollitia amet! Libero debitis minima cumque, eaque ipsam rerum porro, quo.</p>
-    <p>Quos non sit omnis cum facilis, laborum culpa natus totam quae animi magnam minima aspernatur, harum dolorem nostrum maxime distinctio! Facilis hic exercitationem, blanditiis, saepe iusto minus libero unde amet molestiae, nemo id! Dolores aperiam commodi dolore neque ipsum rerum error, eum. Ratione rem maxime incidunt quam nostrum, voluptas alias soluta accusamus magni quibusdam, tempore numquam! Unde nemo a optio dolore sunt ex repellat molestiae quisquam quas. Fugiat, eligendi ullam. Exercitationem sapiente neque debitis omnis commodi cumque illo magni quam.</p>
-
-- id: image-credits
-  image: img.jpg
-  pages:
-    - id: all
-  content: >
-    <div class="core-title core-title--md">Image Credits</div>
-    <ol>
-      <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non tenetur dolorem quod, perspiciatis explicabo harum doloremque aut eveniet reprehenderit voluptatibus.</li>
-      <li>Cupiditate fugiat voluptatibus molestias soluta perspiciatis deserunt eum officia autem laboriosam, fugit provident harum architecto delectus iure dolores quis corrupti.</li>
-      <li>Adipisci eligendi, ut. Voluptas optio a rerum perferendis eligendi esse minus voluptate consequatur, ullam cupiditate distinctio ad, est, vitae beatae!</li>
-      <li>Odit alias, expedita quis. Quibusdam soluta odit architecto labore. Vel quaerat dignissimos minus accusamus deserunt et, fugit a odit provident!</li>
-      <li>Inventore voluptate, quis quibusdam consectetur excepturi officia ipsum fugit, itaque sapiente, rem, saepe sunt libero ducimus reiciendis officiis nobis et?</li>
-      <li>Minima aperiam fuga voluptate cupiditate commodi sed enim! Dolore qui, accusamus accusantium iste asperiores quidem molestias officiis quia necessitatibus minus.</li>
-      <li>Id illum non atque perspiciatis alias natus, laboriosam nihil dolorum voluptatum libero cum vel ex commodi deserunt debitis maxime sed.</li>
-      <li>Ab cum voluptas hic asperiores accusantium et voluptatem, architecto a saepe modi culpa laudantium, unde eveniet fugiat nobis excepturi molestias?</li>
-    </ol>
-
-
-#################################################
-#   academy-gallery
-#################################################
-
-- id: gallery
-  type: series
-  pages:
-    - id: all
-
-  contents:
-
-    - id: whisky-drinks
-      image: img.jpg
-      content: >
-        <div class="title title--lg">He drinks the Whisky drinks</div>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium maxime est soluta expedita inventore corrupti ipsam illo, eligendi sit id accusamus iure dicta qui suscipit culpa fugiat possimus consequatur totam iste perspiciatis delectus nesciunt deleniti, cumque nemo labore? Nesciunt explicabo velit iure, et voluptatibus beatae vitae laboriosam. Magni suscipit, facere eum culpa ab ullam, accusantium tempora, ut similique vero odit placeat sit tenetur quas, consectetur eaque. Praesentium distinctio, quae mollitia amet! Libero debitis minima cumque, eaque ipsam rerum porro, quo.</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium maxime est soluta expedita inventore corrupti ipsam illo, eligendi sit id accusamus iure dicta qui suscipit culpa fugiat possimus consequatur totam iste perspiciatis delectus nesciunt deleniti, cumque nemo labore? Nesciunt explicabo velit iure, et voluptatibus beatae vitae laboriosam. Magni suscipit, facere eum culpa ab ullam, accusantium tempora, ut similique vero odit placeat sit tenetur quas, consectetur eaque. Praesentium distinctio, quae mollitia amet! Libero debitis minima cumque, eaque ipsam rerum porro, quo.</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium maxime est soluta expedita inventore corrupti ipsam illo, eligendi sit id accusamus iure dicta qui suscipit culpa fugiat possimus consequatur totam iste perspiciatis delectus nesciunt deleniti, cumque nemo labore? Nesciunt explicabo velit iure, et voluptatibus beatae vitae laboriosam. Magni suscipit, facere eum culpa ab ullam, accusantium tempora, ut similique vero odit placeat sit tenetur quas, consectetur eaque. Praesentium distinctio, quae mollitia amet! Libero debitis minima cumque, eaque ipsam rerum porro, quo.</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium maxime est soluta expedita inventore corrupti ipsam illo, eligendi sit id accusamus iure dicta qui suscipit culpa fugiat possimus consequatur totam iste perspiciatis delectus nesciunt deleniti, cumque nemo labore? Nesciunt explicabo velit iure, et voluptatibus beatae vitae laboriosam. Magni suscipit, facere eum culpa ab ullam, accusantium tempora, ut similique vero odit placeat sit tenetur quas, consectetur eaque. Praesentium distinctio, quae mollitia amet! Libero debitis minima cumque, eaque ipsam rerum porro, quo.</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium maxime est soluta expedita inventore corrupti ipsam illo, eligendi sit id accusamus iure dicta qui suscipit culpa fugiat possimus consequatur totam iste perspiciatis delectus nesciunt deleniti, cumque nemo labore? Nesciunt explicabo velit iure, et voluptatibus beatae vitae laboriosam. Magni suscipit, facere eum culpa ab ullam, accusantium tempora, ut similique vero odit placeat sit tenetur quas, consectetur eaque. Praesentium distinctio, quae mollitia amet! Libero debitis minima cumque, eaque ipsam rerum porro, quo.</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium maxime est soluta expedita inventore corrupti ipsam illo, eligendi sit id accusamus iure dicta qui suscipit culpa fugiat possimus consequatur totam iste perspiciatis delectus nesciunt deleniti, cumque nemo labore? Nesciunt explicabo velit iure, et voluptatibus beatae vitae laboriosam. Magni suscipit, facere eum culpa ab ullam, accusantium tempora, ut similique vero odit placeat sit tenetur quas, consectetur eaque. Praesentium distinctio, quae mollitia amet! Libero debitis minima cumque, eaque ipsam rerum porro, quo.</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium maxime est soluta expedita inventore corrupti ipsam illo, eligendi sit id accusamus iure dicta qui suscipit culpa fugiat possimus consequatur totam iste perspiciatis delectus nesciunt deleniti, cumque nemo labore? Nesciunt explicabo velit iure, et voluptatibus beatae vitae laboriosam. Magni suscipit, facere eum culpa ab ullam, accusantium tempora, ut similique vero odit placeat sit tenetur quas, consectetur eaque. Praesentium distinctio, quae mollitia amet! Libero debitis minima cumque, eaque ipsam rerum porro, quo.</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium maxime est soluta expedita inventore corrupti ipsam illo, eligendi sit id accusamus iure dicta qui suscipit culpa fugiat possimus consequatur totam iste perspiciatis delectus nesciunt deleniti, cumque nemo labore? Nesciunt explicabo velit iure, et voluptatibus beatae vitae laboriosam. Magni suscipit, facere eum culpa ab ullam, accusantium tempora, ut similique vero odit placeat sit tenetur quas, consectetur eaque. Praesentium distinctio, quae mollitia amet! Libero debitis minima cumque, eaque ipsam rerum porro, quo.</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium maxime est soluta expedita inventore corrupti ipsam illo, eligendi sit id accusamus iure dicta qui suscipit culpa fugiat possimus consequatur totam iste perspiciatis delectus nesciunt deleniti, cumque nemo labore? Nesciunt explicabo velit iure, et voluptatibus beatae vitae laboriosam. Magni suscipit, facere eum culpa ab ullam, accusantium tempora, ut similique vero odit placeat sit tenetur quas, consectetur eaque. Praesentium distinctio, quae mollitia amet! Libero debitis minima cumque, eaque ipsam rerum porro, quo.</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium maxime est soluta expedita inventore corrupti ipsam illo, eligendi sit id accusamus iure dicta qui suscipit culpa fugiat possimus consequatur totam iste perspiciatis delectus nesciunt deleniti, cumque nemo labore? Nesciunt explicabo velit iure, et voluptatibus beatae vitae laboriosam. Magni suscipit, facere eum culpa ab ullam, accusantium tempora, ut similique vero odit placeat sit tenetur quas, consectetur eaque. Praesentium distinctio, quae mollitia amet! Libero debitis minima cumque, eaque ipsam rerum porro, quo.</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium maxime est soluta expedita inventore corrupti ipsam illo, eligendi sit id accusamus iure dicta qui suscipit culpa fugiat possimus consequatur totam iste perspiciatis delectus nesciunt deleniti, cumque nemo labore? Nesciunt explicabo velit iure, et voluptatibus beatae vitae laboriosam. Magni suscipit, facere eum culpa ab ullam, accusantium tempora, ut similique vero odit placeat sit tenetur quas, consectetur eaque. Praesentium distinctio, quae mollitia amet! Libero debitis minima cumque, eaque ipsam rerum porro, quo.</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium maxime est soluta expedita inventore corrupti ipsam illo, eligendi sit id accusamus iure dicta qui suscipit culpa fugiat possimus consequatur totam iste perspiciatis delectus nesciunt deleniti, cumque nemo labore? Nesciunt explicabo velit iure, et voluptatibus beatae vitae laboriosam. Magni suscipit, facere eum culpa ab ullam, accusantium tempora, ut similique vero odit placeat sit tenetur quas, consectetur eaque. Praesentium distinctio, quae mollitia amet! Libero debitis minima cumque, eaque ipsam rerum porro, quo.</p>
-
-
-    - id: vodka-drinks
-      image: img.jpg
-      content: >
-        <div class="title title--lg">He drinks the Vodka drinks</div>
-        <p>Voluptatem, inventore culpa nobis esse officiis praesentium fugiat illo deserunt? Inventore perspiciatis accusantium ad quaerat voluptas nostrum, illum magni, quas. Temporibus rerum eveniet quas esse modi veritatis, sequi eaque hic unde consequuntur, nisi maiores officiis odit eligendi nulla non eius cupiditate id tenetur nam. Dicta, excepturi, odio! Rem optio modi, deleniti eligendi, praesentium harum ipsam minus unde, voluptates commodi voluptatem voluptas eveniet reiciendis qui alias. Aut, earum, temporibus. Ut minus atque nemo deleniti possimus vitae rem, ad voluptatibus modi dolorum?</p>
-
-    - id: larger-drinks
-      image: img.jpg
-      content: >
-        <div class="title title--lg">He drinks the Larger drinks</div>
-        <p>Hic, ratione consequuntur tempora error dicta quis minus cumque vero? Repellat facere nam blanditiis nostrum praesentium in tenetur. Sapiente dicta nostrum facilis, repudiandae natus doloribus voluptatibus delectus a distinctio asperiores, quidem quisquam in, officiis aut non tempore incidunt nihil expedita ea! Quibusdam et, eligendi. Aperiam omnis nobis beatae, rem minus, dicta eligendi sequi nisi, quam at expedita mollitia accusamus nostrum quo quisquam ratione, architecto unde eaque assumenda ab maxime minima nemo! Sunt odit qui distinctio voluptatibus. Repellat placeat vitae commodi.</p>
-
-    - id: cider-drinks
-      image: img.jpg
-      content: >
-        <div class="title title--lg">He drinks the Cider drinks</div>
-        <p>Ipsam harum numquam corporis at fugit necessitatibus porro possimus laboriosam odit dolores quaerat nemo veritatis incidunt, totam perspiciatis eaque magnam debitis delectus? Harum fuga quia animi, ipsa in consectetur, quae nostrum dolores sint molestiae sit consequatur odit enim ex optio nisi eveniet expedita accusantium iure commodi illum quidem cum unde dolorem! Expedita aliquam neque, reprehenderit voluptatum perspiciatis facere quod ab laboriosam aperiam. Delectus molestias atque, cumque quae labore nisi eveniet odit! Dolorem, ex hic nisi quam deleniti, et deserunt sapiente!</p>
-
-
-#################################################
-#   Competition
-#################################################
-
 - id: competition-terms
   pages:
     - id: competition
   content: >
     <div class="content-spacing">
-      <h3 class="core-title core-title--lg">Competition terms & conditions</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium maxime est soluta expedita inventore corrupti ipsam illo, eligendi sit id accusamus iure dicta qui suscipit culpa fugiat possimus consequatur totam iste perspiciatis delectus nesciunt deleniti, cumque nemo labore? Nesciunt explicabo velit iure, et voluptatibus beatae vitae laboriosam. Magni suscipit, facere eum culpa ab ullam, accusantium tempora, ut similique vero odit placeat sit tenetur quas, consectetur eaque. Praesentium distinctio, quae mollitia amet! Libero debitis minima cumque, eaque ipsam rerum porro, quo.</p>
-      <p>Quos non sit omnis cum facilis, laborum culpa natus totam quae animi magnam minima aspernatur, harum dolorem nostrum maxime distinctio! Facilis hic exercitationem, blanditiis, saepe iusto minus libero unde amet molestiae, nemo id! Dolores aperiam commodi dolore neque ipsum rerum error, eum. Ratione rem maxime incidunt quam nostrum, voluptas alias soluta accusamus magni quibusdam, tempore numquam! Unde nemo a optio dolore sunt ex repellat molestiae quisquam quas. Fugiat, eligendi ullam. Exercitationem sapiente neque debitis omnis commodi cumque illo magni quam.</p>
+      <h3 class="core-title core-title--md">Competition terms & conditions</h3>
+      <div class="space--sm"></div>
+      <h4 class="core-title core-title--xs">Promoter and Participants</h4>
+      <ol class="continuing-list continuing-list--start">
+        <li>The Promoter is Secret Escapes Ltd, 120 Holborn, London, EC1N 2TD.</li>
+        <li>All entrants (“Participants”) must be UK, Republic of Ireland, Netherlands and Belgium residents aged 21 or over.</li>
+        <li>Employees of Secret Escapes, The Out, Poets House and affiliated companies, their families, agents and other parties directly involved with this promotion and the sponsorship are not eligible to enter.</li>
+        <li>By entering this prize draw, all participants are deemed to have agreed to be bound by these terms and conditions unless notified otherwise in writing.</li>
+      </ol>
+      <h4 class="core-title core-title--xs space--lg">The Prize Draw</h4>
+      <ol class="continuing-list">
+        <li>To enter this prize draw, participants are asked to download THE OUT app and register for an account from 01/11/2019 00.00 am (“Entry Date”) and 31/01/2020 11.59 pm (“Close Date”).</li>
+        <li>No purchase is necessary; it is free to enter this prize draw.</li>
+        <li>Incomplete, invalid or inappropriate entries, or entries received after the closing date will not be eligible to win.</li>
+      </ol>
+      <h4 class="core-title core-title--xs space--lg">How to Participate</h4>
+      <ol class="continuing-list">
+        <li>To enter this draw, participants must download THE OUT app and register an account providing the information such as name and e-mail address.</li>
+        <li>All entries must be received between the entry date and the close date (UK time).</li>
+      </ol>
+      <h4 class="core-title core-title--xs space--lg">Prize Draw Requirements</h4>
+      <ol class="continuing-list">
+        <li>Participants agree to be contacted by the promoter for the purposes of administering the prize draw. Participants agree their details are shared with THE OUT.</li>
+        <li>Promoter reserves the right to disqualify incomplete or illegible entries or which otherwise do not meet the requirements.</li>
+      </ol>
+      <h4 class="core-title core-title--xs space--lg">The Prize</h4>
+      <ol class="continuing-list">
+          <li>The prize consists of a 2-night stay at Poets House for 2 guests in a Deluxe Room including breakfast. Hotel black out dates include: 14th 15th 16th Feb 2020, 28th March 2020, 10th April 2020, 27th June 2020, 23rd 24th and 31st December 2020. Prize includes a Range Rover Evoque R-Dynamic (2020) for the duration of the trip. Range Rover Evoque R-Dynamic (2020), 5 seats, 2.0L Diesel Auto.</li>
+      </ol>
+      <h4 class="core-title core-title--xxs space--md">THE OUT terms and conditions include:</h4>
+      <ul>
+        <li>This competition is open worldwide to entrants aged 25 years or over (full information on entrant requirements below).</li>
+        <li>The prize is only redeemable in the UK with a delivery and collection address for the vehicle within the London service area.</li>
+        <li>Who can drive the vehicle?</li>
+        <li>UK licence holders: UK driving licence must have been held for at least 2 years if the driver is aged between 25 and 29 years or at least 1 year if the driver is aged between 30 and 74 years; UK driving licence must have no more than six points arising out of minor convictions; UK driving licence must have no points arising out of major convictions;</li>
+        <li>EU, Swiss and Norwegian licence holders: EU, Swiss or Norwegian driving licences must have been held for at least 2 years preceding the rental period; drivers must be aged between 25 and 74 years;</li>
+        <li>International license holders: As a holder of an international license you must have resided in the UK for no longer than 12 months; drivers must be aged between 25 and 74 years;</li>
+        <li>Anyone driving the vehicle must: have a full UK, EU, Swiss, Norwegian or international driving licence which is valid for the type of vehicle being rented; be between the ages of 25 and 74 during the rental period; not have been involved in two or more accidents in the preceding 3 years or in one accident with costs exceeding £5,000 (or equivalent if in another currency) in the preceding 3 years; not have any unspent motoring convictions; not be under the influence of alcohol, drugs or any other substance which may impair their ability to drive the vehicle, or cause it to be operated illegally</li>
+        <li>You will have use of the vehicle for the period of time shown in your booking confirmation.</li>
+        <li>In most cases you will be renting a Range Rover Evoque R-Dynamic (2020). If, for any reason, we are unable to rent you a Range Rover Evoque R-Dynamic (2020), we will substitute it with an equivalent vehicle. If we need to substitute it with an equivalent vehicle, we will endeavour to let you know in advance.</li>
+        <li>You can have the vehicle dropped off at and collected from any address within our service area (London Zones 1-5 plus Heathrow and Gatwick airports in the UK), provided that both you and THE OUT are permitted to be there. If it is not possible or safe to drop off the vehicle to the address you have provided, THE OUT will endeavour to find an alternative location nearby and notify you.</li>
+        <li>You can have the vehicle collected from a different location to the drop-off location, as long as it is within the service area in London, UK.</li>
+        <li>You, or any additional drivers added to the rental, must be present during your requested drop-off period and have the items with you that you need to rent the vehicle.</li>
+        <li>Standard delivery and collection hours are between 7am and 9pm, Monday to Sunday.</li>
+        <li>Unlimited mileage constitutes a ‘fair usage allowance' of 600 miles per 24 hour period. Any mileage in excess will be charged at £0.30 per mile.</li>
+        <li>The vehicle you have rented may be fitted with a tracking device. The tracking device will be used to ensure safe and compliant operation of the vehicle in line with these terms and conditions.</li>
+        <li>Only you and any drivers we have given written permission to, can drive the vehicle. We require any additional drivers’ details including drivers licenses ahead of the start of the rental period.</li>
+        <li>You must not rent the vehicle to anyone else. You must also not use the vehicle or let someone else use it for any prohibited purpose. These include using the vehicle: other than in accordance with all applicable road traffic laws and regulations; other than in accordance with these terms and conditions; for any illegal purposes or in a way which would cause nuisance; to carry passengers for a fee; for driving lessons; to tow or push any vehicle, trailer or other object, without our written permission; for racing, pace-making, or to test the vehicle’s reliability, performance or speed; off roads or on roads unsuitable for the vehicle; outside the United Kingdom, unless we have given you written permission and a Vehicle on Hire Certificate (VE103B); if it is loaded beyond the manufacturer’s maximum weight recommendations; to carry unsecured loads; to carry more passengers than the vehicle was manufactured to legally carry.</li>
+        <li>You will also have to pay to THE OUT: any charges for loss or damage to the vehicle resulting from your non-compliance with these terms and conditions, including, where applicable, an administration fee to reflect our reasonable administration costs for dealing with these matters; the full cost of repairs for any damage to the vehicle caused by your gross negligence, serious carelessness, or deliberate misuse, regardless of the cover that has been taken out, e.g. driving the vehicle illegally or driving through a flood; any loss or damage to any optional accessories rented at time of rental (e.g. child seats, telephone cradles, chargers, etc.); a charge for any call outs which are your fault, (e.g. losing the key to the vehicle).</li>
+        <li>In addition, you are responsible for the following charges to third parties: all charges (including legal and administrative costs) for any road-traffic offences or parking (local authority or private), congestion or toll charges, or any other offences or charges involving the vehicle, including costs from the vehicle being clamped, seized or towed away – we may offer to pay the London congestion charge for you, however this is at our discretion and will only apply where we have notified you that we are able to pay this before the handover of the vehicle; any recovery charges arising from the Driver and Vehicle Standards Agency (DVSA), HM Revenue &amp; Customs (HMRC), the police, or any other organisation or their agents, who have seized our vehicle while on hire to you.</li>
+        <li>When you rent a vehicle with us, you will have to provide a £1250 security deposit, as set out in the booking confirmation. If you are required to provide a security deposit of an amount greater than £1250, you will be notified in writing before booking.</li>
+        <li>24 hours before you take delivery of the vehicle, your security deposit can be settled by credit or debit card and will be affected by electronic pre-authorisation. Although the money will not be taken from your account, it will not be available to you until the end of the rental period.</li>
+        <li>THE OUT insurance covers the following damage: Third party injury: Unlimited; Third party property damage (vehicles): £20,000,000 per event / unlimited in the aggregate; Third party property damage (other items): £5,000,000 per event / unlimited in the aggregate; provide cover for loss or damage to the vehicle. However, every time you damage the vehicle you still have to pay an amount up to the standard £1250 excess. Roof damage is not covered, and you will be responsible for the full cost of repair.</li>
+        <li>THE OUT will also provide cover for theft and damage to the vehicle caused during a theft or attempted theft. However, you still have to pay the standard £1250 excess if the vehicle is stolen.</li>
+        <li>Where you have not complied with these terms and conditions, or have been grossly negligent, you will have to pay all damage costs, not just the excess.</li>
+        <li>If you are an individual, THE OUT will end the contract between us if we find out that your belongings have been taken away from you to pay off your debts, or a receiving order has been made against you. We may also end the contract between us if you do not comply with the main terms of these terms and conditions.</li>
+        <li>If you are a company, THE OUT will end the contract between us if you go into liquidation, you call a meeting of creditors, we find out that your goods have been taken away from you until you pay off your debts, or you do not comply with the main terms these terms and conditions.</li>
+        <li>If we end the contract between us it will not affect our right to receive any amount you owe us. We can also claim reasonable costs from you if you do not meet the main conditions of these terms and conditions. We can repossess the vehicle and charge you a reasonable amount for doing so.</li>
+        <li>Leaseurope has published a code of conduct for the car rental industry. You may obtain a copy at the following address: www.leaseurope.org.</li>
+      </ul>
+      <ol class="continuing-list space--lg">
+        <li>Promoter reserves the right to publish name, town and county of the winner or to publicise any prize giving presentation after the date of the draw. If the winner does not wish such details to be published, they must advise the promoter at time of being notified that they have won.</li>
+        <li>The prizes are non-transferable and no cash or credit alternatives will be substituted for the prizes on offer. In the event that the prizes offered are unavailable due to circumstances beyond our control, the promoter reserves the right to offer an alternative prize of equal or greater value.</li>
+        <li>In the event of circumstances beyond our control the promoter is not responsible for delays in travel.</li>
+        <li>The winner must claim the prize not later than 14 days after the winner has been informed.</li>
+        <li>If the winner rejects or fails to claim the prize on time in accordance with the clause 17 the prize may be awarded to other entrants at the absolute and sole discretion of the promoter.</li>
+      </ol>
+      <h4 class="core-title core-title--xs space--lg">Selection</h4>
+      <ol class="continuing-list">
+        <li>The winner will be drawn at random by Secret Escapes from all submissions received between the entry date and the close date.</li>
+        <li>The winner will be contacted via a direct message from a member at Secret Escapes.</li>
+      </ol>
+      <h4 class="core-title core-title--xs space--lg">Disclaimer</h4>
+      <ol class="continuing-list">
+        <li>Promoter reserves the right to refuse to honour any entry or to recover the full value of any prize if it considers there has been an abuse or breach of the terms and conditions of this Prize Draw.</li>
+        <li>Promoter shall not be liable for any loss, damage or injury of any nature howsoever caused, sustained by any participant under this promotion. However, nothing in these rules shall have the effect of excluding or restricting the promoter’s liability for personal injury or death caused by the proven negligence of its employees or contractors.</li>
+        <li>In the event of a dispute over interpretation or implementation of the rules on any matter related to the prize draw, the decision of the directors of the promoter is final and no correspondence will be entered into.</li>
+      </ol>
     </div>
