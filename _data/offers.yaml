@@ -1,0 +1,79 @@
+- title: De Vere Latimer Estate
+  location: Chesham, Buckinghamshire
+  description: Refurbished Buckinghamshire country mansion
+  price: 125
+  price-description: per room per night
+  saved: 39
+  expires: 2019/12/03
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/47499/91c101e8_2e94_4c6e_84df_df089251b036.jpg?auto=format,compress
+  link: https://www.secretescapes.com/de-vere-latimer-estate-chesham-buckinghamshire/sale
+
+- title: Lifehouse Spa & Hotel
+  location: Thorpe-le-Soken, Essex
+  description: Acclaimed adults-only Essex spa hotel
+  price: 80
+  price-description: per room per night
+  saved: 50
+  expires: 2019/12/03
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/103658/f1213980_6024_4a96_af5b_2c8c58b802b8.jpg?auto=format,compress
+  link: https://www.secretescapes.com/lifehouse-spa-and-hotel-thorpe-le-soken-essex/sale
+
+- title: Warbrook House
+  location: Hook, Hampshire
+  description: Georgian manor house between Reading and Farnborough
+  price: 80
+  price-description: per room per night
+  saved: 53
+  expires: 2019/12/03
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/98648/eec52986_1f90_4387_8026_fb09ee92fa52.jpg?auto=format,compress
+  link: https://www.secretescapes.com/warbrook-house-hook-hampshire/sale
+
+- title: De Vere Wokefield Estate
+  location: Reading, Berkshire
+  description: Grand 18th-century Berkshire mansion house
+  price: 125
+  price-description: per room per night
+  saved: 50
+  expires: 2019/11/26
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/103520/80f455e7_fc46_414c_b0cf_66fe3afed85b.jpg?auto=format,compress
+  link: https://www.secretescapes.com/de-vere-wokefield-estate-reading-berkshire/sale
+
+- title: The Big Cat Sanctuary
+  location: Ashford, Kent
+  description: Unique endangered big cat sanctuary in Kent
+  price: 599
+  price-description: per lodge per night
+  saved: 23
+  expires: 2019/12/02
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/69106/217e966e_20c1_42dd_8694_f6eca9e01850.jpg?auto=format,compress
+  link: https://www.secretescapes.com/the-big-cat-sanctuary-ashford-kent/sale
+
+- title: Champneys Forest Mere
+  location: Liphook, Hampshire
+  description: Luxe Champneys spa stay in the Hampshire countryside
+  price: 229
+  price-description: per room per night
+  saved: 45
+  expires: 2019/12/10
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/49081/ee6a8863_3f85_41a1_bb54_09b61424d53b.jpg?auto=format,compress
+  link: https://www.secretescapes.com/champneys-forest-mere-liphook-hampshire/sale
+
+- title: Eastwell Manor Champneys Hotel & Spa
+  location: Ashford, Kent
+  description: Kent manor house with plush Champneys spa
+  price: 198
+  price-description: per room per night
+  saved: 46
+  expires: 2019/12/03
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/60131/9d037c51_a366_49c9_abfa_baf8f331187f.jpg?auto=format,compress
+  link: https://www.secretescapes.com/eastwell-manor-champneys-hotel-and-spa-ashford-kent/sale
+
+- title: Spitbank Fort
+  location: Solent, Portsmouth
+  description: Luxe converted Solent sea fort stay
+  price: 499
+  price-description: . per suite per night
+  saved: 29
+  expires: 2019/12/02
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/42469/183d7a11_7f4e_4b6a_b0e4_f1a8db28d47a.jpg?auto=format,compress
+  link: https://www.secretescapes.com/spitbank-fort-solent-portsmouth/sale

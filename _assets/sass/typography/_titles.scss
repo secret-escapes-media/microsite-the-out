@@ -42,6 +42,10 @@
 
   // custom content headline
   font-family: $font-title-01;
+  text-transform: uppercase;
+  letter-spacing: .2rem;
+  line-height: 1.15;
+  font-weight: 500;
   font-size: $s2; // default size
   &--lg     { font-size: $s4; }
   &--sm     { font-size: $s0; }

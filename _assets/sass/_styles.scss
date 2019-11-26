@@ -2,8 +2,17 @@
 
 .download-badge {
   width: 120px;
-  padding-top: $s3;
+  padding-top: $s2;
   margin-left: auto;
   margin-right: auto;
   a { display: block; }
+}
+
+.promo-code {
+  padding: $s-1 $s2;
+  letter-spacing: .1rem;
+  font-weight: 700;
+  font-size: $s0;
+  word-break: break-all;
+  border: 2px solid rgba($white, .5);
 }
