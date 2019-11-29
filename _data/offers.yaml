@@ -1,42 +1,42 @@
-- title: De Vere Latimer Estate
-  location: Chesham, Buckinghamshire
-  description: Refurbished Buckinghamshire country mansion
-  price: 125
-  price-description: per room per night
-  saved: 39
-  expires: 2019/12/03
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/47499/91c101e8_2e94_4c6e_84df_df089251b036.jpg?auto=format,compress
-  link: https://www.secretescapes.com/de-vere-latimer-estate-chesham-buckinghamshire/sale
-
-- title: Lifehouse Spa & Hotel
-  location: Thorpe-le-Soken, Essex
-  description: Acclaimed adults-only Essex spa hotel
-  price: 80
+- title: Monkey Island Estate
+  location: Bray-on-Thames, Berkshire
+  description: Polished five-star riverside retreat near Bray
+  price: 179
   price-description: per room per night
   saved: 50
-  expires: 2019/12/03
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/103658/f1213980_6024_4a96_af5b_2c8c58b802b8.jpg?auto=format,compress
-  link: https://www.secretescapes.com/lifehouse-spa-and-hotel-thorpe-le-soken-essex/sale
+  expires: 2019/12/10
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/105975/5aeb6896_02a1_4377_93ac_173baf509f3a.jpg?auto=format,compress
+  link: https://www.secretescapes.com/monkey-island-estate-bray-on-thames-berkshire/sale
 
 - title: Warbrook House
   location: Hook, Hampshire
   description: Georgian manor house between Reading and Farnborough
-  price: 80
+  price: 89
   price-description: per room per night
-  saved: 53
+  saved: 48
   expires: 2019/12/03
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/98648/eec52986_1f90_4387_8026_fb09ee92fa52.jpg?auto=format,compress
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/105321/96e1a4a5_8dab_454e_a040_787e91cca599.jpg?auto=format,compress
   link: https://www.secretescapes.com/warbrook-house-hook-hampshire/sale
 
-- title: De Vere Wokefield Estate
-  location: Reading, Berkshire
-  description: Grand 18th-century Berkshire mansion house
-  price: 125
+- title: Danesfield House Hotel & Spa
+  location: Marlow, Buckinghamshire
+  description: A Buckinghamshire estate stay with an award-winning spa
+  price: 219
   price-description: per room per night
-  saved: 50
-  expires: 2019/11/26
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/103520/80f455e7_fc46_414c_b0cf_66fe3afed85b.jpg?auto=format,compress
-  link: https://www.secretescapes.com/de-vere-wokefield-estate-reading-berkshire/sale
+  saved: 57
+  expires: 2019/12/10
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/76988/fd772b50_193d_4e54_bdd8_63c1dcbc5ff6.jpg?auto=format,compress
+  link: https://www.secretescapes.com/danesfield-house-hotel-and-spa-marlow-buckinghamshire/sale
+
+- title: Barnett Hill
+  location: Guildford, Surrey
+  description: An elegant country house stay in the Surrey Hills
+  price: 139
+  price-description: per room per night
+  saved: 44
+  expires: 2019/12/10
+  image: https://d2g6qre7voj6kv.cloudfront.net/hotels/58/bde6ba05_296c_4ff9_92c7_1cd4040a4851.jpg?auto=format,compress
+  link: https://www.secretescapes.com/barnett-hill-guildford-surrey/sale-hotel
 
 - title: The Big Cat Sanctuary
   location: Ashford, Kent
@@ -44,7 +44,7 @@
   price: 599
   price-description: per lodge per night
   saved: 23
-  expires: 2019/12/02
+  expires: 2019/12/10
   image: https://d2g6qre7voj6kv.cloudfront.net/sales/69106/217e966e_20c1_42dd_8694_f6eca9e01850.jpg?auto=format,compress
   link: https://www.secretescapes.com/the-big-cat-sanctuary-ashford-kent/sale
 
@@ -55,25 +55,35 @@
   price-description: per room per night
   saved: 45
   expires: 2019/12/10
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/49081/ee6a8863_3f85_41a1_bb54_09b61424d53b.jpg?auto=format,compress
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/45241/48b1e86b_e596_4697_9d72_5a538454fc4b.jpg?auto=format,compress
   link: https://www.secretescapes.com/champneys-forest-mere-liphook-hampshire/sale
 
-- title: Eastwell Manor Champneys Hotel & Spa
-  location: Ashford, Kent
-  description: Kent manor house with plush Champneys spa
-  price: 198
+- title: Balmer Lawn Hotel & Spa
+  location: Brockenhurst, New Forest
+  description: Historic New Forest hotel with AA Rosette dining
+  price: 139
+  price-description: per room per night
+  saved: 39
+  expires: 2019/12/01
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/46615/4876d98b_d4ed_49d9_ae2b_956822d805fb.jpg?auto=format,compress
+  link: https://www.secretescapes.com/balmer-lawn-hotel-and-spa-brockenhurst-new-forest/sale
+
+- title: Alexander House & Utopia Spa
+  location: East Grinstead, Sussex
+  description: Luxuriate in five-star spa heaven at a West Sussex award-winner
+  price: 199
   price-description: per room per night
   saved: 46
-  expires: 2019/12/03
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/60131/9d037c51_a366_49c9_abfa_baf8f331187f.jpg?auto=format,compress
-  link: https://www.secretescapes.com/eastwell-manor-champneys-hotel-and-spa-ashford-kent/sale
+  expires: 2019/12/01
+  image: https://d2g6qre7voj6kv.cloudfront.net/hotels/87/5681f502_a44c_45e8_af6a_b725055e1c24.jpg?auto=format,compress
+  link: https://www.secretescapes.com/alexander-house-and-utopia-spa-east-grinstead-sussex/sale-hotel
 
-- title: Spitbank Fort
-  location: Solent, Portsmouth
-  description: Luxe converted Solent sea fort stay
-  price: 499
-  price-description: . per suite per night
-  saved: 29
-  expires: 2019/12/02
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/42469/183d7a11_7f4e_4b6a_b0e4_f1a8db28d47a.jpg?auto=format,compress
-  link: https://www.secretescapes.com/spitbank-fort-solent-portsmouth/sale
+- title: Cotswold House Hotel & Spa
+  location: Cotswolds, Gloucestershire
+  description: An elegant Cotswolds hideaway with an award-winning spa
+  price: 105
+  price-description: per room per night
+  saved: 28
+  expires: 2019/12/03
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/18779/2e2a00f3_b914_4289_8b25_5538a06ecc7a.jpg?auto=format,compress
+  link: https://www.secretescapes.com/cotswold-house-hotel-and-spa-cotswolds-gloucestershire/sale
