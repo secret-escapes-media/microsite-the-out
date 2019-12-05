@@ -1,6 +1,8 @@
 ---
 layout: competition
 id: competition
+nav: true
+nav-order: 1
 
 title: Competition
 long-title: Win your very own luxury escape

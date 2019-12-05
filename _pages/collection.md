@@ -2,6 +2,9 @@
 layout: collection
 id: collection
 permalink: /collection/
+nav: true
+nav-order: 2
+nav-title: Collection
 title: Escape London – The Collection
 meta-title: Escape London – The Collection
 banner:
