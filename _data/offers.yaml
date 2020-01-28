@@ -1,59 +1,19 @@
-- title: Burley Manor
-  location: New Forest, Hampshire
-  description: Historic Forbes-recommended manor in the New Forest
-  price: 97
-  price-description: per room per night
-  saved: 32
-  expires: 2020/02/04
-  image: https://secretescapes-web.imgix.net/sales/107666/cc685508_4f3a_483e_bf7a_f3623e7d8674.jpg?auto=format,compress
-  link: https://www.secretescapes.com/burley-manor-new-forest-hampshire/sale
-
-- title: The Harcourt Arms
-  location: Stanton Harcourt, Oxfordshire
-  description: Snug newly renovated Oxfordshire country pub with rooms
-  price: 111
-  price-description: per room per night
-  saved: 30
-  expires: 2020/01/26
-  image: https://secretescapes-web.imgix.net/sales/108264/8c755194_e2f6_4c83_bd96_1fb4cf864155.jpg?auto=format,compress
-  link: https://www.secretescapes.com/the-harcourt-arms-stanton-harcourt/sale
-
-- title: The Grand Brighton
-  location: Brighton, East Sussex
-  description: Charming stay in Brighton’s most iconic seafront hotel
-  price: 142
-  price-description: per room per night
-  saved: 41
-  expires: 2020/02/04
-  image: https://secretescapes-web.imgix.net/sales/108300/3700dc1f_cf9b_4b86_8200_b6659b1c445b.jpg?auto=format,compress
-  link: https://www.secretescapes.com/the-grand-brighton-brighton-east-sussex/sale
-
-- title: The Crazy Bear
-  location: Beaconsfield, Buckinghamshire
-  description: Luxe Condé Nast Hot List-recommended stay in Buckinghamshire, with Champagne, dinner and more
-  price: 291
-  price-description: per room per night
-  saved: 58
-  expires: 2020/01/28
-  image: https://secretescapes-web.imgix.net/sales/54983/04a0eeca_e3d4_47b9_a490_1a7edc2d6254.jpg?auto=format,compress
-  link: https://www.secretescapes.com/the-crazy-bear-beaconsfield-buckinghamshire/sale
-
 - title: De Vere Latimer Estate
   location: Chesham, Buckinghamshire
   description: Refurbished Buckinghamshire country mansion
-  price: 142
+  price: 139
   price-description: per room per night
-  saved: 26
-  expires: 2020/02/04
-  image: https://secretescapes-web.imgix.net/sales/47499/72796a53_34e8_4daa_ae67_e83163e0f625.jpg?auto=format,compress
+  saved: 28
+  expires: 2020/02/11
+  image: https://secretescapes-web.imgix.net/sales/47499/91c101e8_2e94_4c6e_84df_df089251b036.jpg?auto=format,compress
   link: https://www.secretescapes.com/de-vere-latimer-estate-chesham-buckinghamshire/sale
 
 - title: Wotton House
   location: Dorking, Surrey
   description: Rustic glamour at a Surrey country estate
-  price: 143
+  price: 155
   price-description: per room per night
-  saved: 35
+  saved: 37
   expires: 2020/02/04
   image: https://secretescapes-web.imgix.net/sales/62349/8df9a6e2_6631_4ea5_bfe6_7682c46cf3da.jpg?auto=format,compress
   link: https://www.secretescapes.com/wotton-house-dorking-surrey/sale
@@ -61,29 +21,79 @@
 - title: The Norfolk Mead Hotel
   location: Norwich, Norfolk
   description: Norfolk Broads base with award-winning dining
-  price: 164
+  price: 179
   price-description: per room per night
-  saved: 44
-  expires: 2020/02/04
+  saved: 39
+  expires: 2020/02/11
   image: https://secretescapes-web.imgix.net/sales/39000/2349d812_aa91_4b0e_aa6c_4a21bfa87544.jpg?auto=format,compress
   link: https://www.secretescapes.com/the-norfolk-mead-hotel-norwich-norfolk/sale
-
-- title: Burnham Beeches Hotel
-  location: Burnham, Buckinghamshire
-  description: Georgian elegance near Windsor with a Laura Ashley tea room
-  price: 138
-  price-description: per room per night
-  saved: 27
-  expires: 2020/02/04
-  image: https://secretescapes-web.imgix.net/sales/54793/df3a7b18_62a5_4ba3_8b60_042947c4e2d6.jpg?auto=format,compress
-  link: https://www.secretescapes.com/burnham-beeches-hotel-burnham-buckinghamshire/sale
 
 - title: The Vineyard
   location: Newbury, Berkshire
   description: Five-star Berkshire spa retreat with award-winning dining
-  price: 162
+  price: 159
   price-description: per room per night
-  saved: 41
+  saved: 43
   expires: 2020/02/04
-  image: https://secretescapes-web.imgix.net/sales/92543/a559693b_5860_4421_bd3e_585afbcf2e65.jpg?auto=format,compress
+  image: https://secretescapes-web.imgix.net/sales/92543/8d7619ea_3ae7_4d5b_b2e9_41f0cfa6ad81.jpg?auto=format,compress
   link: https://www.secretescapes.com/the-vineyard-newbury-berkshire/sale
+
+- title: Burley Manor
+  location: New Forest, Hampshire
+  description: Historic Forbes-recommended manor in the New Forest
+  price: 95
+  price-description: per room per night
+  saved: 34
+  expires: 2020/02/04
+  image: https://secretescapes-web.imgix.net/sales/107666/cc685508_4f3a_483e_bf7a_f3623e7d8674.jpg?auto=format,compress
+  link: https://www.secretescapes.com/burley-manor-new-forest-hampshire/sale
+
+- title: The Grand Brighton
+  location: Brighton, East Sussex
+  description: Charming stay in Brighton’s most iconic seafront hotel
+  price: 139
+  price-description: per room per night
+  saved: 43
+  expires: 2020/02/11
+  image: https://secretescapes-web.imgix.net/sales/108300/3700dc1f_cf9b_4b86_8200_b6659b1c445b.jpg?auto=format,compress
+  link: https://www.secretescapes.com/the-grand-brighton-brighton-east-sussex/sale
+
+- title: Eastwell Manor Champneys Hotel & Spa
+  location: Ashford, Kent
+  description: Kent manor house with plush Champneys spa
+  price: 198
+  price-description: per room per night
+  saved: 50
+  expires: 2020/02/11
+  image: https://secretescapes-web.imgix.net/sales/60131/4be4bbc6_8870_4767_a800_8440eb306049.jpg?auto=format,compress
+  link: https://www.secretescapes.com/eastwell-manor-champneys-hotel-and-spa-ashford-kent/sale
+
+- title: Black Lion Hotel
+  location: Long Melford, Suffolk
+  description: A stylish boutique Georgian hotel in rural Suffolk
+  price: 99
+  price-description: per room per night
+  saved: 37
+  expires: 2020/02/11
+  image: https://secretescapes-web.imgix.net/sales/109072/5e347a3d_ae97_4ded_bd1e_1526a9904727.jpg?auto=format,compress
+  link: https://www.secretescapes.com/black-lion-hotel-long-melford-suffolk/sale
+
+- title: South Lodge
+  location: Horsham, West Sussex
+  description: Five-star Sussex country house with award-winning dining
+  price: 249
+  price-description: per room per night
+  saved: 34
+  expires: 2020/02/11
+  image: https://secretescapes-web.imgix.net/sales/100653/1f77e488_5226_48ba_8d89_248d20d8f6d7.jpg?auto=format,compress
+  link: https://www.secretescapes.com/south-lodge-horsham-west-sussex/sale
+
+- title: Treehouse Hotel
+  location: Port Lympne Hotel & Reserve, Kent
+  description: Luxury treehouse stay in a Kent safari park near the coast
+  price: 319
+  price-description: per room per night
+  saved: 26
+  expires: 2020/02/11
+  image: https://secretescapes-web.imgix.net/sales/52114/f5dca7f1_1f1c_455f_9771_f98c9ad750a1.jpg?auto=format,compress
+  link: https://www.secretescapes.com/treehouse-hotel-port-lympne-hotel-and-reserve-kent/sale
